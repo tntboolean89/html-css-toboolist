@@ -1,3 +1,42 @@
-body {
-    background-color: pink;
+
+/*
+**************************
+Common
+**************************
+*/
+
+
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F6F8F9;
+}
+
+/*
+**************************
+Header
+**************************
+*/
+
+header {
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin: 0 0 40px 0;
+}
+
+.logo {
+    vertical-align: middle;
+}
+
+.logo-text {
+    vertical-align: middle;
+    display: inline-block; 
+}
+
