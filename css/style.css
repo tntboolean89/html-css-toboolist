@@ -40,3 +40,54 @@ header {
     display: inline-block; 
 }
 
+/*
+**************************
+Main
+**************************
+*/
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #FFF;
+    border-radius: 15px;
+
+}
+
+/*
+**************************
+Buttons
+**************************
+*/
+
+.btn-area {
+    border-bottom: 2px solid #F6F8F9;
+    padding: 20px 40px;
+}
+
+.btn {
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 13px;
+}
+
+#btn-tasks {
+    background-color: #47ADF1;
+    border: 1px solid #47ADF1;
+    color: #F6F8F9;
+}
+
+#btn-section {
+    border: 1px solid #c8ced3;
+    color: #c8ced3;
+}
+
+
+
+/*
+**************************
+Tasks
+**************************
+*/
+
